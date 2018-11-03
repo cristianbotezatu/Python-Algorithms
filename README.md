@@ -8,4 +8,3 @@ Implemented algorithms are-
   Searching Algorithms
       Linear Search
       Binary Search
-  
