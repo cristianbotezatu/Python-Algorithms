@@ -2,7 +2,8 @@
 This repository contains some of the common and most used algorithms. All these algorithms are implemented in python.
 Implemented algorithms are-
   Sorting Algorithm
-      (Bubble Sort,
+      (Heap Sort, 
+      Bubble Sort,
       Merge Sort
       and Quick Sort)
   , Searching Algorithms
